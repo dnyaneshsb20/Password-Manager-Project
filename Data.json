@@ -1,0 +1,42 @@
+{
+    "FLipkart": {
+        "Email": "abc@gmail.com",
+        "Password": "123456"
+    },
+    "ewewe": {
+        "Email": "eee@gmail.com",
+        "Password": "123456"
+    },
+    "Amazon": {
+        "Email": "abc@gmail.com",
+        "Password": "12345"
+    },
+    "Ekart": {
+        "Email": "abc@gmail.com",
+        "Password": "3421344"
+    },
+    "IRCTC": {
+        "Email": "abc@gmail.com",
+        "Password": "57964224"
+    },
+    "Twitter": {
+        "Email": "abc@gmail.com",
+        "Password": "7C*lT7!KxiOX2)EA"
+    },
+    "Swiggy": {
+        "Email": "abc@gmail.com",
+        "Password": "123456"
+    },
+    "Zomato": {
+        "Email": "abc@gmail.com",
+        "Password": "i+*Lb3t29fZS!PY+Y"
+    },
+    "Udemy": {
+        "Email": "abc@gmail.com",
+        "Password": "Udemy@123"
+    },
+    "NPTEL": {
+        "Email": "abc@gmail.com",
+        "Password": "43DLrq3#4eF9V13Q"
+    }
+}
